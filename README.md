@@ -16,3 +16,9 @@ Gradient-based non-Stochastic Linear Regression model I wrote while I was going 
         <p>This is image 3</p>
     </div>
 </div>
+
+<p float="left">
+  <img src="High_Rate_movie4.gif" width="200" />
+  <img src="movie.gif" width="200" /> 
+  <img src="Small_Rate_movie3.gif" width="200" />
+</p>
